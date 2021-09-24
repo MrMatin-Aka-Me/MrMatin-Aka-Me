@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-c?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -33,7 +33,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:neversurrender2000@mail.ru"><img src="https://img.shields.io/badge/-neversurrender2000@mail.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/matin_juraev"><img src="https://img.shields.io/badge/-@matin_juraev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/matinjuraev"><img src="https://img.shields.io/badge/-@matinjuraev-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="mailto:neversurrender2000@mail.ru"><img src="https://img.shields.io/badge/-neversurrender2000@mail.ru-G05122?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/matin_juraev"><img src="https://img.shields.io/badge/-@matin_juraev-05122A?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/matinjuraev"><img src="https://img.shields.io/badge/-@matinjuraev-A05122?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
