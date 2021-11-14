@@ -33,7 +33,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:neversurrender2000@mail.ru"><img src="https://img.shields.io/badge/-neversurrender2000@mail.ru-G05122?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:matindzhuraev@gmail.com"><img src="https://img.shields.io/badge/-matindzhuraev@gmail.com-G05122?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/matin_juraev"><img src="https://img.shields.io/badge/-@matin_juraev-05122A?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/matinjuraev"><img src="https://img.shields.io/badge/-@matinjuraev-A05122?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
