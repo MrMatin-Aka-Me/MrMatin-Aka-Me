@@ -4,8 +4,6 @@
 
 🎓 &nbsp;I'm currently studying Business-Informatics at National Research Nuclear University MEPhI.\
 🌱 &nbsp;I'm on track for learning more about web-developing.\
-💡 &nbsp;I like to explore new technologies.\
-✍️ &nbsp;In my free time, I pursue Problem Solving from Leetcode, Reading Articles About Web and Listening to Music as hobbies.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
 
 
